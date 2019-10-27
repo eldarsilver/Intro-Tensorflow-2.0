@@ -1,2 +1,2 @@
-# Intro-Tensorflow-2.0
+# Tensorflow-2.0
 Repository which hosts tutorials about Tensorflow 2.0
